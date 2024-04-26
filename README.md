@@ -41,13 +41,18 @@ Code is available at: [GitHub Repository](https://github.com/shohanursobuj/LeafE
 If you use this code or the obtained results in your work, please cite this project as:
 
 ```
-@inproceedings{sobuj-etal-2024,
-    title = "Leveraging Pre-trained CNNs for Efficient Feature Extraction in Rice Leaf Disease Classification",
-    author = "Sobuj, Md. Shohanur Islam  and Hossen, Md. Imran and Mahmud, Md. Foysal and Khan, Mahbub Ul Islam",
-    month = March,
-    year = "2024",
-    note = "Accepted for publication in 2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)",
+@INPROCEEDINGS{10499603,
+  author={Islam Sobuj, Md. Shohanur and Hossen, Md. Imran and Mahmud, Md. Foysal and Islam Khan, Mahbub Ul},
+  booktitle={2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)}, 
+  title={Leveraging Pre-trained CNNs for Efficient Feature Extraction in Rice Leaf Disease Classification}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={01-06},
+  keywords={Histograms;Visualization;Refining;Neural networks;Propulsion;Feature extraction;Convolutional neural networks;Rice Disease Classification;Feature Extraction;Histogram of Oriented Gradients (HOG);Local Binary Patterns (LBP);Convolutional Neural Networks (CNNs);Grad-CAM},
+  doi={10.1109/iCACCESS61735.2024.10499603}
 }
+
 
 
 ```
